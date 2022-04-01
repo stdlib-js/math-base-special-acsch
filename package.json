@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/math-base-special-acsch",
+  "version": "0.0.0",
+  "description": "Compute the hyperbolic arccosecant of a number.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-acsch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "acsch",
+    "hyperbolic",
+    "inverse",
+    "cosecant",
+    "csc",
+    "arc",
+    "arccosecant",
+    "trig",
+    "trigonometry",
+    "angle",
+    "math.asinh",
+    "asinh"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
