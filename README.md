@@ -118,6 +118,16 @@ for ( i = 0; i < x.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/acoth`][@stdlib/math/base/special/acoth]</span><span class="delimiter">: </span><span class="description">compute the inverse hyperbolic cotangent.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acsc`][@stdlib/math/base/special/acsc]</span><span class="delimiter">: </span><span class="description">compute the arccosecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asech`][@stdlib/math/base/special/asech]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arcsecant of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asinh`][@stdlib/math/base/special/asinh]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arcsine of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/csch`][@stdlib/math/base/special/csch]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic cosecant of a number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -192,6 +202,20 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-acsch/main/LICENSE
 
 [inverse-hyperbolic-functions]: https://en.wikipedia.org/wiki/Inverse_hyperbolic_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/acoth]: https://github.com/stdlib-js/math-base-special-acoth
+
+[@stdlib/math/base/special/acsc]: https://github.com/stdlib-js/math-base-special-acsc
+
+[@stdlib/math/base/special/asech]: https://github.com/stdlib-js/math-base-special-asech
+
+[@stdlib/math/base/special/asinh]: https://github.com/stdlib-js/math-base-special-asinh
+
+[@stdlib/math/base/special/csch]: https://github.com/stdlib-js/math-base-special-csch
+
+<!-- </related-links> -->
 
 </section>
 
