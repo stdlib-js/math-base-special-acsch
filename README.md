@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acsch from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acsch@esm/index.mjs';
+import acsch from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acsch@v0.3.1-esm/index.mjs';
 ```
 
 #### acsch( x )
@@ -90,7 +90,7 @@ v = acsch( Infinity );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import acsch from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acsch@esm/index.mjs';
+import acsch from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acsch@v0.3.1-esm/index.mjs';
 
 var x = uniform( 100, 1.0, 5.0, {
     'dtype': 'float64'
